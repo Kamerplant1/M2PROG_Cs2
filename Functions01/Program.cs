@@ -1,4 +1,4 @@
-﻿using System.Runtime.CompilerServices;
+﻿using System;
 
 namespace Functions01
 {
@@ -6,15 +6,23 @@ namespace Functions01
     {
         static void Main(string[] args)
         {
-            Program*program*=*new*program();
+            Program program = new Program();
             program.Run();
-            //Program is de variable
-            //Type is int
-            //Program is type 
-            //return type is void
-            
-            interal*void*Run()
-                Console.WriteLine("Dit is nu het start van mijn programma")
+        }
+        //Program is de variable
+        //Type is int
+        //Program is type 
+        //return type is void
+        internal void Vraag1()
+        {
+            Console.WriteLine("How long do you think you'd survive in a zombie apocalypse?");
+            string antwoord = Console.ReadLine();
+            Console.WriteLine("About 3 days");
+        }
+        internal void Run()
+        {
+            Console.WriteLine("Dit is nu de start van mijn programma");
+            Vraag1(); 
         }
     }
 }

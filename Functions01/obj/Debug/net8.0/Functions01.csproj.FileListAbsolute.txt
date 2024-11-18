@@ -1,0 +1,15 @@
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\obj\Debug\net8.0\Functions01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\obj\Debug\net8.0\Functions01.AssemblyInfoInputs.cache
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\obj\Debug\net8.0\Functions01.AssemblyInfo.cs
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\obj\Debug\net8.0\Functions01.csproj.CoreCompileInputs.cache
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\obj\Debug\net8.0\Functions01.sourcelink.json
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\bin\Debug\net8.0\Functions01.exe
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\bin\Debug\net8.0\Functions01.deps.json
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\bin\Debug\net8.0\Functions01.runtimeconfig.json
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\bin\Debug\net8.0\Functions01.dll
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\bin\Debug\net8.0\Functions01.pdb
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\obj\Debug\net8.0\Functions01.dll
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\obj\Debug\net8.0\refint\Functions01.dll
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\obj\Debug\net8.0\Functions01.pdb
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\obj\Debug\net8.0\Functions01.genruntimeconfig.cache
+C:\Users\walst\OneDrive\Bureaublad\Ma\Bewijzenmap\periode 1.2\M2Prog_Cs2\M2PROG_Cs2\Functions01\obj\Debug\net8.0\ref\Functions01.dll
