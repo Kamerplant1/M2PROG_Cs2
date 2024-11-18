@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace Functions01
 {
@@ -17,8 +18,21 @@ namespace Functions01
         {
             Console.WriteLine("How long do you think you'd survive in a zombie apocalypse?");
             string antwoord = Console.ReadLine();
-            Console.WriteLine("About 3 days");
+            Console.WriteLine("about 5 weeks");
+                Console.WriteLine("What would you do if you won a million dollars?");
+            string antwoord2 = Console.ReadLine();
+            Console.WriteLine("buy stuff");
+            string antwoord3 = Console.ReadLine();
+            Console.WriteLine("What would you buy first?");
+           string antwoord4 = Console.ReadLine();
+            Console.WriteLine("A red chevrolet");
+            Console.WriteLine("Which species would be the rudest if all animals could talk?");
+            string antwoord5 = Console.ReadLine();
+            Console.WriteLine("Idk maybe mosquitos");
+            
+          
         }
+
         internal void Run()
         {
             Console.WriteLine("Dit is nu de start van mijn programma");
