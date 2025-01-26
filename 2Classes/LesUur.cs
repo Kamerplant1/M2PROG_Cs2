@@ -1,7 +1,7 @@
 internal class LesUur
 {
     internal int tijd;
-    internal Student student;
-    internal RijLeraar rijLeraar;
+    internal student student;
+    internal Rijleraar rijLeraar;
     internal Auto auto;
 }
